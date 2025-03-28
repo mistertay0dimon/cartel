@@ -4,8 +4,8 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setup(
-    name="cartel",  # Замените на желаемое имя пакета
-    version="1.0",
+    name="cartel",  
+    version="1.0.01",
     description="Как ему не страшно говорить про кортель",
     long_description=long_description,
     long_description_content_type="text/markdown",
@@ -17,6 +17,6 @@ setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires=">=3.6",  # Укажите минимальную версию Python
-    # url="https://github.com/mistertay0dimon"
+    python_requires=">=3.6",  
+    # url="https://github.com/mistertay0dimon/cartel"
 )
