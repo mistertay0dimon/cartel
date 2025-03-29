@@ -10,7 +10,7 @@ pip install cartel
 # Использование
 Чтобы сделать скрипт который будет выводить текст как ему не страшно блаблабла вам нужно в вашем новом .py файле ввести вот это:
 ```python
-from cartel import carteltext
+from cartel import cartel
 
 text = carteltext()
 print(text)
