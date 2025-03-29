@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="cartel",  
-    version="1.0.01",
+    version="1.1-a1",
     description="Как ему не страшно говорить про кортель",
     long_description=long_description,
     long_description_content_type="text/markdown",
