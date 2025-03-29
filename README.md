@@ -12,7 +12,7 @@ pip install cartel
 ```python
 from cartel import cartel
 
-text = carteltext()
+text = cartel()
 print(text)
 ```
 После этого выведется текст как ему не страшно говорить блаблабла 
