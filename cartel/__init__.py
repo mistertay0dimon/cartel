@@ -1,1 +1,1 @@
-from .cartel import carteltext
+from .cartel import cartel
