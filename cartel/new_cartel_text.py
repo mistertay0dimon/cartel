@@ -15,6 +15,4 @@ def new_cartel_text():
     os.system('cls' if os.name == 'nt' else 'clear')
     print(Style.RESET_ALL + "кортель")
     time.sleep(2)
-    exit(
-        
-    )
+    exit()
